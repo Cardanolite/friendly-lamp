@@ -1,2 +1,0 @@
-# friendly-lamp
-logo.png 
